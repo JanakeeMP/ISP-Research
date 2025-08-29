@@ -17,15 +17,17 @@ Findings from 48 peer-reviewed studies (2021–2025) show that GenAI-based detec
 
 ---
 
-## 📦 Repository Structure  
+## 📦 Repository Structure 
+
+```text
+.
 ├── README.md              # Project overview
 ├── requirements.txt       # Python dependencies
 ├── notebooks/             # Jupyter notebooks with the analysis workflow
 ├── data/                  # Dataset (keywords of analyzed articles)
 ├── figures/               # Generated visualizations
 └── reports/               # Final PDF reports (ISP_Report.pdf, Assessor_Report.pdf)
-
----
+```
 
 ## 🚀 Getting Started  
 
